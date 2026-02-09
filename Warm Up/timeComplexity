@@ -1,0 +1,18 @@
+o(1)- constant time
+o(log n) - binary search
+o(n) - linear search
+o(n log n) - merge search
+o(n2) - two loop
+o(2n) - loops run 2 times
+o(n!)
+
+
+
+
+non decreasing means there would be dublicates
+
+increment order => a[i+1] > a[i]
+decreasing order => a[i+1] < a[i]
+non-decreasing order => a[i+1] >= a[i]
+
+in-place => dont create a new array , modify current array
